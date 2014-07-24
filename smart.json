@@ -1,0 +1,8 @@
+{
+  "name": "konecty-mixitup",
+  "description": "A Filter & Sort Plugin (jQuery plugin)",
+  "homepage": "https://github.com/Konecty/meteor-mixitup",
+  "author": "Konecty",
+  "version": "0.0.1",
+  "git": "https://github.com/Konecty/meteor-mixitup.git"
+}
